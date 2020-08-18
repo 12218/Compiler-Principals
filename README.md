@@ -13,3 +13,4 @@
 | :----: | :--------------: | :--------: |
 | <a href="https://github.com/12218/Compiler-Principals/tree/master/Chapter01">Chapter01</a> | 编译原理引论 | 2020.08.17 |
 | <a href="https://github.com/12218/Compiler-Principals/tree/master/Chapter02">Chapter02</a> | 高级语言及其语法描述 | 2020.08.17 |
+| <a href="https://github.com/12218/Compiler-Principals/tree/master/Chapter03">Chapter03</a> | 词法分析 | 2020.08.18 |
